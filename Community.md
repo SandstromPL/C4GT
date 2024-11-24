@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>College</td>
-    <td>Indian Insititute Of Technology, Bhilai</td>
+    <td>Indian Institute Of Technology, Bhilai</td>
   </tr>
 </table>
 <table>
