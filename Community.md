@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Paritosh Lahre</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/SandstromPL</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/paritosh-lahre-7a6648253/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Insititute Of Technology, Bhilai</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
